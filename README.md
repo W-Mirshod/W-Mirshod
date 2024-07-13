@@ -17,7 +17,6 @@
 
 - ⚡ Fun fact **I'm very enthusiasm to work with you and gain xp**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
