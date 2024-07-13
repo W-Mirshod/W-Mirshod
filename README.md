@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <b>W Mirshod</b></h1>
+<h1 align="center">Hi 👋, I'm W Mirshod</h1>
 <h3 align="center">A passionate Backend developer (18/7)</h3>
 
 - 🔭 I’m currently working on **microservices**
