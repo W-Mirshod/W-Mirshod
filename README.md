@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://github.com/Python3526](https://github.com/Python3526)
 
-- ⚡ Fun fact **I'm very enthusiasm to work with big projects and gain xp**
+- ⚡ Fun fact **I'm very enthusiasm to work with big projects and gain more xp**
 
 <p align="left">
 </p>
