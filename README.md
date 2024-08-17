@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://t.me/lorem_ipsum_xp](https://t.me/lorem_ipsum_xp)
 
-- 📫 How to reach me **python3526@gmail.com**
+- 📫 How to reach me **python3526@gmail.com**  &  **trading3526@gmail.com**
 
 - 📄 Know about my experiences https://github.com/W-Mirshod
 
