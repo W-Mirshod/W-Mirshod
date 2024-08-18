@@ -31,5 +31,9 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" alt="chatgpt" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB_stacked_REV_SQ.5f9319e5e21c0010e0e39dd3d8c1342e9d0a3523.png" alt="Amazon AWS" width="40" height="40"/>
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.postman.com/web-assets/logo/postman-logo-stacked.svg" alt="Postman" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="40" height="40"/></a>
 <a href="https://www.pygame.org/" target="_blank" rel="noreferrer"> <img src="https://www.pygame.org/images/logo_lofi.png" alt="pygame" width="40" height="40"/></a>
 </p>
