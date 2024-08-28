@@ -27,11 +27,13 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>&nbsp;
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>&nbsp;
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/></a>&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.6ff6a5ec2e69dbab5b646e2ccbe096ab?rik=e82iWtNnrojMEQ&pid=ImgRaw&r=0" alt="AWS" width="40" height="40"/></a>&nbsp;
-<a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> <img src="https://freelogopng.com/images/all_img/1681039084chatgpt-icon.png" alt="chatgpt" width="40" height="40"/></a>&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;
+<a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="linux" width="40" height="40"/></a>&nbsp;
+<a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> <img src="https://freelogopng.com/images/all_img/1681039084chatgpt-icon.png" alt="chatgpt" width="40" height="40"/></a>&nbsp;
 <a href="https://www.pygame.org/" target="_blank" rel="noreferrer"> <img src="https://www.pygame.org/images/logo_lofi.png" alt="pygame" width="40" height="40"/></a>
 </p>
