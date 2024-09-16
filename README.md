@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **real projects**
 
-- 📄 Know about my experiences [https://github.com/W-Mirshod](https://w-mirshod.com/)
+- 📄 Know about my experiences https://w-mirshod.com/
 
 - 👨‍💻 All of my projects are available at https://github.com/W-Mirshod?tab=repositories
 
