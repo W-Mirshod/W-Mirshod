@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **real projects**
 
+- 📄 Know about my experiences [https://github.com/W-Mirshod](https://w-mirshod.com/)
+
 - 👨‍💻 All of my projects are available at https://github.com/W-Mirshod?tab=repositories
 
 - 📝 I regularly write articles on [https://t.me/lorem_ipsum_xp](https://t.me/lorem_ipsum_xp)
 
 - 📫 How to reach me **trading3526@gmail.com**
-
-- 📄 Know about my experiences https://github.com/W-Mirshod
 
 - ⚡ Fun fact **I'm very enthusiasm to work with big projects and gain more xp**
 
