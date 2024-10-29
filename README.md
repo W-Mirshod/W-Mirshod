@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **microservices & APIs**
 
-- 🌱 I’m currently learning **OpenAI**
+- 🌱 I’m currently learning **AI APIs**
 
 - 👯 I’m looking to collaborate on **real projects**
 
