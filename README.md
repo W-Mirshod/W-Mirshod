@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **trading3526@gmail.com**
 
-- ⚡ Fun fact: **I'm very enthusiasm to work with big projects and gain more xp**
+- ⚡ Fun fact: **I'm very enthusiasm to work with big projects and optimize the performence**
 
 <p align="left">
 </p>
