@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences https://w-mirshod.com   (My personal Website)
 
-- 👨‍💻 All of my projects are available at https://github.com/W-Mirshod?tab=repositories
+- 👨‍💻 Many of my projects are available at https://github.com/W-Mirshod?tab=repositories
 
 - 📫 How to reach me **trading3526@gmail.com**
 
