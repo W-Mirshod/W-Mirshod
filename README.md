@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h1 align="left">Hi 👋, I'm W Mirshod</h1>
-      <h3 align="left">A passionate Backend developer (18/7)</h3>
+      <h3 align="left">A passionate Backend developer (12/7)</h3>
       <ul>
         <li>🔭 I’m working on <strong>microservices & APIs</strong></li>
         <li>🌱 I’m currently learning <strong>AI APIs</strong></li>
