@@ -66,13 +66,6 @@
   <img src="https://icon.icepanel.io/Technology/svg/Azure.svg" alt="Azure APIs" width="40" height="40"/>
 </p>
 
-<h3 align="center">Professional Experience</h3>
-<ul>
-  <li><b>Senior Software Engineer</b> @ Yaklabs (Tashkent, Uzbekistan) <br>Python, Django, AWS, Docker, PostgreSQL, Redis, WebSocket<br>Oct 2024 - Apr 2025</li>
-  <li><b>Software Engineer</b> @ MegaDevs (Germany) <br>React, Node.js, TypeScript, Docker, Kubernetes, AWS, CI/CD<br>2022 - Oct 2024</li>
-  <li><b>Backend Developer & AI Engineer</b> (Freelance) <br>Python, Django, FastAPI, AI APIs, Machine Learning, AWS, PostgreSQL</li>
-</ul>
-
 <h3 align="center">Skills & Expertise</h3>
 <ul>
   <li><b>Backend:</b> Python, Django, Django ORM, Flask, FastAPI, REST APIs, WebSockets, WebRTC, Celery, PyGame</li>
