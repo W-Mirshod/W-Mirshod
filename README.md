@@ -4,7 +4,6 @@
       <h1 align="left">Hi 👋, I'm Mirshod Qayimov</h1>
       <h3 align="left">Software Engineer | Full-Stack | Backend & AI Specialist</h3>
       <p><b>I build fast, scalable, AI-integrated backend systems. Obsessed with performance and clarity.</b></p>
-      <p>Loves building tools, hates boilerplate, always shipping something new.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
