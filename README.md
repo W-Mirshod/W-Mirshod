@@ -24,7 +24,7 @@
         <li>📈 100% Project Ownership | 15+ Tech Stack Mastery | 24/7 Development Focus</li>
         <li>📄 <a href="https://w-mirshod.com">Portfolio Website</a></li>
         <li>👨‍💻 <a href="https://github.com/W-Mirshod?tab=repositories">GitHub Projects</a></li>
-        <li>🔗 <a href="https://linkedin.com/in/w-mirshod">LinkedIn</a> | <a href="https://t.me/wmirshod">Telegram</a> | <a href="mailto:mirshod@wmirshod.com">Email</a></li>
+        <li>🔗 <a href="https://linkedin.com/in/wmirshod">LinkedIn</a> | <a href="https://t.me/w-mirshod">Telegram</a> | <a href="mailto:mirshod@wmirshod.com">Email</a></li>
       </ul>
     </td>
     <td align="center" width="40%">
