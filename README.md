@@ -40,39 +40,54 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://www.quadrilite.com/wp-content/uploads/2024/04/React-natived-1.png" alt="React Native" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>&nbsp;
-  <img src="https://www.pygame.org/docs/_static/pygame_logo.png" alt="PyGame" width="40" height="40"/>&nbsp;
-  <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" alt="Swagger/OpenAPI" width="40" height="40"/>&nbsp;
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://icon.icepanel.io/Technology/svg/Fedora.svg" alt="Fedora" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub-Codespaces.png" alt="GitHub Codespaces" width="40" height="40"/>&nbsp;
-  <img src="https://icon.icepanel.io/Technology/svg/GitLab.svg" alt="GitLab" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.sanity.io/images/k7elabj6/production/43ed2a0bd025b8f5d7ef611cc85726af8c3da57a-252x264.svg" alt="YoloV8" width="40" height="40"/>&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/Azure.svg" alt="Azure APIs" width="40" height="40"/>&nbsp;
   <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://docs.pytest.org/en/latest/_static/pytest1.png" alt="Pytest" width="40" height="40"/>&nbsp;
   <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="Celery" width="40" height="40"/>&nbsp;
-  <img src="https://icon.icepanel.io/Technology/svg/Azure.svg" alt="Azure APIs" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" alt="Swagger" width="40" height="40"/>&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/Grafana.svg" alt="Grafana" width="40" height="40"/>&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" alt="Prometheus" width="40" height="40"/>&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/Jira.svg" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREFG_shbxV7ib4ezJAaos2DcQ95T6j_AC8ng&s" alt="Stripe" width="40" height="40"/>&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/Trello.svg" alt="Trello" width="40" height="40"/>&nbsp;
+  <img src="https://www.pygame.org/docs/_static/pygame_logo.png" alt="PyGame" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/16178365?s=200&v=4" alt="Python-telegram-bot" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ubuntu_and_Ubuntu_Server_Icon.png" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/Fedora.svg" alt="Fedora" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://cursor.sh/favicon.ico" alt="Cursor IDE" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Terminal" width="40" height="40"/>&nbsp;
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub-Codespaces.png" alt="GitHub Codespaces" width="40" height="40"/>&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/GitLab.svg" alt="GitLab" width="40" height="40"/>
 </p>
 
 <h3 align="center">Skills & Expertise</h3>
 <ul>
-  <li><b>Backend:</b> Python, Django, Django ORM, Flask, FastAPI, REST APIs, WebSockets, WebRTC, Celery, PyGame</li>
-  <li><b>Frontend:</b> JavaScript, React, React Native, Vite, Tailwind, HTML5, CSS3, SCSS</li>
-  <li><b>DevOps & Cloud:</b> AWS (EC2, S3, CodePipeline, CodeDeploy), Docker, Docker Compose, Linux, Git, GitHub Actions, CI/CD, Nginx, Apache</li>
-  <li><b>Databases:</b> PostgreSQL, MySQL, SQLite, Redis</li>
-  <li><b>AI & ML:</b> Azure APIs, AI APIs, GPT-Neo, Machine Learning</li>
-  <li><b>Tools:</b> Swagger/OpenAPI, Postman, Pytest, Excel/CSV Analysis</li>
+  <li><b>Backend:</b> Python, Django, Django ORM, Flask, FastAPI, REST APIs, WebSockets/WebRTC, Monolithic/Microservices, API Integration, Performance Optimization, Celery, Flower, Python-telegram-bot, Aiogram, Telethon, PyGame</li>
+  <li><b>Frontend:</b> JavaScript, React, Vite, Tailwind, HTML5, CSS3, SCSS</li>
+  <li><b>Mobile Development:</b> React Native (iOS & Android)</li>
+  <li><b>DevOps & Cloud:</b> AWS (EC2, S3, CodePipeline, CodeDeploy), Docker, Docker Compose, Linux, Git, GitHub, GitHub Actions, CI/CD, Automation, Nginx, Apache, Grafana, Prometheus</li>
+  <li><b>Databases:</b> PostgreSQL, MySQL, SQLite, Redis, Caching</li>
+  <li><b>AI & Machine Learning:</b> PyTorch, lanchain-community, Jypiter, YoloV8, Azure APIs, AI APIs, Personal AI Model (GPT-Neo)</li>
+  <li><b>Tools & Utilities:</b> Swagger/OpenAPI, Postman, Pytest, Excel/CSV Analysis, Jira, Clickup, Trello</li>
 </ul>
 
 <h3 align="center">Featured Projects</h3>
