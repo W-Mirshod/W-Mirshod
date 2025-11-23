@@ -127,7 +127,7 @@
 <p align="center">
   <a href="https://github.com/W-Mirshod">GitHub</a> |
   <a href="https://linkedin.com/in/wmirshod">LinkedIn</a> |
-  <a href="https://t.me/wmirshod">Telegram</a> |
+  <a href="https://t.me/w_mirshod">Telegram</a> |
   <a href="mailto:mirshod@wmirshod.com">Email</a>
 </p>
 
